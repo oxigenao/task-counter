@@ -5,3 +5,24 @@
     background-color: #e5e5e5;
     box-shadow: 0 3px 5px -1px rgba(0, 0, 0, .2), 0 6px 10px 0 rgba(0, 0, 0, .14), 0 1px 18px 0 rgba(0, 0, 0, .12);
 }
+
+.team-card {
+    width: 90%;
+    display: block;
+    margin: 30px auto;
+}
+
+.mat-card {
+    background: #ffffff;
+    color: #424242;
+    padding: 0px;
+}
+
+.mat-card-content {
+    padding: 24px;
+}
+
+.mat-card-header {
+    padding: 24px;
+    background-color: #f2f2f2 !important;
+}
